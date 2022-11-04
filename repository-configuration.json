@@ -7,7 +7,7 @@
         {
             "dataDir": "%WORKSPACE%/temp",
             "repository": {
-                "uid": "8dd8b26a55931e89b0595b22fb9b007f",
+                "uid": "",
                 "projectName": "cpp_remote",
                 "languages": [
                     "CPP"
