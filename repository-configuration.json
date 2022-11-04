@@ -61,7 +61,7 @@
                 "codeissues": [
                     {
                         "name": "gamma_cxx",
-                        "enabled": true,
+                        "enabled": false,
                         "config": {
                             "rules": [],
                             "options": []
@@ -84,7 +84,7 @@
                     },
                     {
                         "name": "cppcheck",
-                        "enabled": true,
+                        "enabled": false,
                         "config": {
                             "rules": [],
                             "options": [
